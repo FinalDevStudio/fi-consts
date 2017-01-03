@@ -2,7 +2,7 @@
   "name": "fi-consts",
   "title": "Fi Consts",
   "description": "Static database content manager for Mongoose",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": false,
   "license": "MIT",
   "author": "Final Development Studio <sorcery@finaldevstudio.com> (http://finaldevstudio.com)",
