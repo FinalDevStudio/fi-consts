@@ -23,9 +23,8 @@
   },
   "devDependencies": {
     "chai": "^3.5.0",
-    "mocha": "^2.4.5",
-    "mongoose": "^4.4.11",
-    "node-uuid": "^1.4.7"
+    "mocha": "^3.2.0",
+    "mongoose": "^4.4.11"
   },
   "bugs": {
     "url": "https://github.com/finaldevstudio/fi-consts/issues"
