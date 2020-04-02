@@ -1,3 +1,7 @@
+---
+### No longer maintained.
+---
+
 # Fi Consts
 Simple constant management for your application.
 
